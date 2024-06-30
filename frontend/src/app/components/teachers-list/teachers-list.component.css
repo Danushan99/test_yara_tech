@@ -1,0 +1,25 @@
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+  }
+  th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  th {
+    background-color: #0A30A0;
+    color: #fff;
+  }
+  tr:hover {
+    background-color: #9eaede;
+  }
+  
